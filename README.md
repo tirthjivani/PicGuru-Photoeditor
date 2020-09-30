@@ -1,1 +1,1 @@
-# prjPicGuru
+# branded photo editing
